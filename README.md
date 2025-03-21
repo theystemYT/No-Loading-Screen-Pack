@@ -11,7 +11,7 @@ The **No Loading Screen** pack for Minecraft Pocket Edition (MCPE) and Minecraft
 This pack only works with MCPE and Minecraft Bedrock Edition version **1.13.0**.
 
 ## Credits:
-Pack created by [@theystem](https://www.youtube.com/@theystem) 
+Pack created by [@theystem.](https://www.youtube.com/@theystem) 
 
 ## Notice:
 Please do **not** steal, redistribute, or modify this code without the creator's permission.
