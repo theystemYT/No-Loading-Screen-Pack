@@ -1,4 +1,4 @@
-Copyright (c) 2025 [@theystem] (www.youtube.com/@theystem)
+Copyright (c) 2025 [@theystem](https://www.youtube.com/@theystem)
 
 All Rights Reserved.
 
