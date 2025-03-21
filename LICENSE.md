@@ -1,4 +1,4 @@
-Copyright (c) [2025] [@theystem]
+Copyright (c) 2025 @theystem
 
 All Rights Reserved.
 
